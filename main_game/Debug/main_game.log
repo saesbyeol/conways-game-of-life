@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  game.cpp
+C:\Users\saesbyeol\Desktop\Project\conways-game-of-life\main_game\game.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\saesbyeol\Desktop\Project\conways-game-of-life\main_game\game.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\saesbyeol\Desktop\Project\conways-game-of-life\main_game\game.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\saesbyeol\Desktop\Project\conways-game-of-life\main_game\game.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  main_game.vcxproj -> C:\Users\saesbyeol\Desktop\Project\conways-game-of-life\Debug\main_game.exe
